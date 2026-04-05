@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@company.com",
+      "username": "john887",
+      "age": 26,
+      "registeredAt": "2025-04-09T11:13:27.918823"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane.doe@company.com",
+      "username": "jane195",
+      "age": 26,
+      "registeredAt": "2025-10-19T11:13:27.918859"
+    },
+    {
+      "id": 3,
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@company.com",
+      "username": "bob762",
+      "age": 29,
+      "registeredAt": "2026-03-21T11:13:27.918867"
+    },
+    {
+      "id": 4,
+      "firstName": "Alice",
+      "lastName": "Brown",
+      "email": "alice.brown@company.com",
+      "username": "alice709",
+      "age": 29,
+      "registeredAt": "2026-03-08T11:13:27.918873"
+    },
+    {
+      "id": 5,
+      "firstName": "Charlie",
+      "lastName": "Williams",
+      "email": "charlie.williams@company.com",
+      "username": "charlie499",
+      "age": 27,
+      "registeredAt": "2026-01-02T11:13:27.918879"
+    }
+  ],
+  "count": 5
+}
